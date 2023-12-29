@@ -29,7 +29,7 @@ FGUI.Name = "FGUI"
 FGUI.Parent = SimpleSexGUI
 FGUI.BackgroundColor3 = Color3.new(255,255,255)
 FGUI.BorderSizePixel = 1
-FGUI.Position = UDim2.new(0,0, 0.720, 0)
+FGUI.Position = UDim2.new(0,0, 0.700, 0)
 FGUI.Size = UDim2.new(0,317, 0,200)
 FGUI.Draggable = true
  
