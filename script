@@ -102,6 +102,5 @@ end)
 while hummy.Parent.Parent ~= nil do
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players[tbxVictim.Text].Character.HumanoidRootPart.CFrame
-game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 160
 end
 end)
