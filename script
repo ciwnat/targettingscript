@@ -29,8 +29,8 @@ FGUI.Name = "FGUI"
 FGUI.Parent = SimpleSexGUI
 FGUI.BackgroundColor3 = Color3.new(255,255,255)
 FGUI.BorderSizePixel = 1
-FGUI.Position = UDim2.new(0,0, 0.667, 0)
-FGUI.Size = UDim2.new(0,317, 0,250)
+FGUI.Position = UDim2.new(0,0, 0.850, 0)
+FGUI.Size = UDim2.new(0,317, 0,200)
 FGUI.Draggable = true
  
  
@@ -102,6 +102,6 @@ end)
 while hummy.Parent.Parent ~= nil do
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players[tbxVictim.Text].Character.HumanoidRootPart.CFrame
-game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 150
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 160
 end
 end)
